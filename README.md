@@ -2,6 +2,6 @@
 
 Display NMEA datagram broadcast on UDP port
 
-'''go
+```sh
 udp-serveur 10002
-'''
+```
